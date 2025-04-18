@@ -1,0 +1,30 @@
+🔐 === Password Strength Checker & Generator ===
+1️⃣  Check Password Strength
+2️⃣  Generate Strong Password
+3️⃣  Exit
+Enter your choice: 1
+🔑 Enter password to check: StrongPass!23
+Password Strength: 🟡 Strong (Entropy: 78.68 bits)
+
+🔐 === Password Strength Checker & Generator ===
+1️⃣  Check Password Strength
+2️⃣  Generate Strong Password
+3️⃣  Exit
+Enter your choice: 2
+📏 Enter desired password length (minimum 8): 12
+🆕 Generated Password: m&3b7WzH$Jsi
+
+🔐 === Password Strength Checker & Generator ===
+1️⃣  Check Password Strength
+2️⃣  Generate Strong Password
+3️⃣  Exit
+Enter your choice: 3
+👋 Exiting... 🟢 Goodbye!
+
+In non-interactive mode:
+🤖 Running in non-interactive mode. Skipping user input.
+📝 Test Password: password123, Strength: 🔴 Weak, Entropy: 31.25 bits
+📝 Test Password: StrongPass!23, Strength: 🟡 Strong, Entropy: 78.68 bits
+📝 Test Password: P@ssw0rd!, Strength: 🟡 Strong, Entropy: 70.60 bits
+📝 Test Password: 12345678, Strength: 🔴 Weak, Entropy: 36.00 bits
+📝 Test Password: A1!b2@C3#, Strength: 🟡 Strong, Entropy: 75.42 bits
